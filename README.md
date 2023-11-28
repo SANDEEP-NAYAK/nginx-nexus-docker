@@ -8,3 +8,4 @@ What we will achieve here?
 5. Docker hosted registry w/ Nexus3.
 
 
+#Link to YT video: https://youtu.be/PRJz61Jm6Ec?si=izgx3GQjNRSghBnm
